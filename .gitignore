@@ -1,0 +1,18 @@
+#Visual Studio artifacts
+bin
+obj
+_ReSharper.changesMonitor
+*.user
+*.suo
+*.ReSharper
+# Emacs artifacts
+*~
+# Java artifacts
+*.class
+# lib
+lib/*/*.dll
+lib/*/*.xml
+lib/*/*.pdb
+lib/*/*/*.dll
+lib/*/*/*.xml
+lib/*/*/*.pdb
